@@ -1,7 +1,8 @@
 
 ## CRUD OPS Using Django and MySQL DB
 
-![Alt text](/home/mohamed/Pictures/run.jpg "Optional title")
+<img src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg" alt="Alt text" title="Optional title">
+
 
 
 
